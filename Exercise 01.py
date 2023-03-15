@@ -10,4 +10,4 @@ print ("Bentuknya yang unik, dan diikuti dengan berbagai macam lampu-lampu kecil
 
 #Harapan sebagai lulusan Teknik Industri
 print ("Saya mempunyai harapan dan mimpi setelah menjadi lulusan Sarjana Teknik Industri yaitu saya ingin bekerja disuatu perusahaan ternama seperti Unilever, dan berbagai macam perusahaan besar lainnya yang mengarah ke perindustrian makanan.")
-print ("Setelah saya sukses dan memiliki uang yang banyak dan sudah dideklarasikan sebagai karyawan tetap di perusahaan tersebut, mimpi saya adalah ingin membuat sebuah usaha sendiri yang bergerak di bidang industri makanan, dan jika usaha itu berhasil saya ingin membuat sebuah Start Up di bidang FnB atau Food and Beverage.")
+print ("Setelah saya sukses dan memiliki uang yang banyak dan sudah dideklarasikan sebagai karyawan tetap di perusahaan tersebut, mimpi saya adalah ingin membuat sebuah usaha sendiri yang bergerak di bidang industri makanan, dan jika usaha itu berhasil saya ingin membuat sebuah Start Up di bidang FnB atau Food and Beverage. Harapan dan mimpi tersebut bisa menjadikan sebuah motivasi agar saya dapat berkembang lebih baik lagi kedepannya")
